@@ -4,7 +4,7 @@
 
 - User
 
-![User](src="./resources/table_user.png") 
+![User](./resources/table_user.png) 
 <p align="center">
     <img src="./resources/table_user.png">
 </p>
