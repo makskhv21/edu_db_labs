@@ -97,9 +97,7 @@
 ### Додати роль
 
 ![](./resources/role/add-role.png)
-**Результат було додано новий запис до таблиці:**
 
-![](./resources/role/add-role-result.png)
 **Якщо додаємо до таблиці роль з уже існуючою назвою, отримуємо помилку:**
 
 ![](./resources/role/add-role-error.png)
