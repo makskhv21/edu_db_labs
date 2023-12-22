@@ -20,241 +20,132 @@
 
 ![](./resources/user/get-all-users.png)
 
-
 ### Отримати користувача за його id
 
-<p align="center">
-    <img src="./resources/user/get-user-by-id.png">
-</p>
+![](./resources/user/get-user-by-id.png)
 
 ### Додавання нового користувача
 
-<p align="center">
-    <img src="./resources/user/add-user.png">
-</p>
+![](./resources/user/add-user.png)
 
 **Результат додавання нового запису в таблиці:**
 
-<p align="center">
-    <img src="./resources/user/add-user-table.png">
-</p>
-
+![](./resources/user/add-user-table.png)
 **При повторному додаванні користувача до таблиці з зареєстрованою електронною поштою, отримаємо помилку:**
 
-<p align="center">
-    <img src="./resources/user/add-user-error.png">
-</p>
-
+![](./resources/user/add-user-error.png)
 ### Видалення користувача за його id
 
-<p align="center">
-    <img src="./resources/user/delete-user.png">
-</p>
-
+![](./resources/user/delete-user.png)
 **Результат таблиці після видалення:**
 
-<p align="center">
-    <img src="./resources/user/delete-user-table.png">
-</p>
-
+![](./resources/user/delete-user-table.png)
 **Якщо видалити вже не існуючого користувача, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/user/delete-user-error.png">
-</p>
-
+![](./resources/user/delete-user-error.png)
 ### Змінити користувачу роль
 
-<p align="center">
-    <img src="./resources/user/change-user-role.png">
-</p>
-
+![](./resources/user/change-user-role.png)
 **Результат зміни ролі в користувача:**
 
-<p align="center">
-    <img src="./resources/user/change-user-role-table.png">
-</p>
-
+![](./resources/user/change-user-role-table.png)
 ## Робота з Media
 
 ### Додавання нового медіа-контенту
 
-<p align="center">
-    <img src="./resources/media/add-media.png">
-</p>
-
+![](./resources/media/add-media.png)
 **В результаті було додано новий запис в таблицю:**
 
-<p align="center">
-    <img src="./resources/media/add-media-table.png">
-</p>
-
+![](./resources/media/add-media-table.png)
 **Якщо додаємо до таблиці медіа-контент з уже існуючим посиланням, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/media/add-media-error.png">
-</p>
-
+![](./resources/media/add-media-error.png)
 ### Здійснення пошуку серед існуючих медіа-контентів за ключовим словом
 
-<p align="center">
-    <img src="./resources/media/search-media.png">
-</p>
-
+![](./resources/media/search-media.png)
 ### Видалення медіа-контенту за його id
 
-<p align="center">
-    <img src="./resources/media/delete-media.png">
-</p>
-
+![](./resources/media/delete-media.png)
 **Результат є видалення відповідного запису з таблиці:**
 
-<p align="center">
-    <img src="./resources/media/delete-media-table.png">
-</p>
-
+![](./resources/media/delete-media-table.png)
 **Якщо видаляємо вже не існуючий медіа-контент, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/media/delete-media-error.png">
-</p>
-
+![](./resources/media/delete-media-error.png)
 ## Робота з Origin
 
 ### Додавання першоджерела
 
-<p align="center">
-    <img src="./resources/origin/add-origin.png">
-</p>
-
-
+![](./resources/origin/add-origin.png)
 **Результат було додано новий запис до таблиці:**
 
-
-<p align="center">
-    <img src="./resources/origin/add-origin-table.png">
-</p>
-
+![](./resources/origin/add-origin-table.png)
 **Якщо додаємо до таблиці першоджерело з уже існуючим ім'ям, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/origin/add-origin-error.png">
-</p>
-
+![](./resources/origin/add-origin-error.png)
 ### Видалення першоджерела за його id
 
-<p align="center">
-    <img src="./resources/origin/delete-origin.png">
-</p>
-
+![](./resources/origin/delete-origin.png)
 **Результат було видалено відповідний запис з таблиці:**
 
-<p align="center">
-    <img src="./resources/origin/delete-origin-table.png">
-</p>
-
+![](./resources/origin/delete-origin-table.png)
 **Якщо видалили уже не існуюче першоджерело, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/origin/delete-origin-error.png">
-</p>
-
+![](./resources/origin/delete-origin-error.png)
 ## Робота з Role
 
 ### Додати роль
 
-<p align="center">
-    <img src="./resources/role/add-role.png">
-</p>
-
+![](./resources/role/add-role.png)
 **Результат було додано новий запис до таблиці:**
 
-<p align="center">
-    <img src="./resources/role/add-role-result.png">
-</p>
-
+![](./resources/role/add-role-result.png)
 **Якщо додаємо до таблиці роль з уже існуючою назвою, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/role/add-role-error.png">
-</p>
-
+![](./resources/role/add-role-error.png)
 ### Додати до ролі нові права
 
-<p align="center">
-    <img src="./resources/role/add-grant-tto-role.png">
-</p>
-
+![](./resources/role/add-grant-tto-role.png)
 **Результат до поля grants відповідного рядка додано потрібний id дозвіл:**
 
-<p align="center">
-    <img src="./resources/role/add-grant-tto-role-table.png">
-</p>
-
+![](./resources/role/add-grant-tto-role-table.png)
 **Якщо додаємо вже додане право, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/role/add-grant-to-role-error.png">
-</p>
-
+![](./resources/role/add-grant-to-role-error.png)
 ### Видалити роль за її id
 
-<p align="center">
-    <img src="./resources/role/delete-role.png">
-</p>
-
+![](./resources/role/delete-role.png)
 **Результат видалено відповідний запис  з таблиці:**
 
-<p align="center">
-    <img src="./resources/role/delete-role-table.png">
-</p>
+![](./resources/role/delete-role-table.png)
 
 **Якщо видаляємо уже не існуючу роль, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/role/delete-role-error.png">
-</p>
+![](./resources/role/delete-role-error.png)
 
 ## Робота з Request
 
 ### Додавання нового запиту
 
-<p align="center">
-    <img src="./resources/request/add-request.png">
-</p>
+![](./resources/request/add-request.png)
 
 **Результат додано новий запис до таблиці:**
 
-<p align="center">
-    <img src="./resources/request/add-request-table.png">
-</p>
+
+    ./resources/request/add-request-table.png)
 
 **Якщо додаємо запит з уже існуючим user id  до таблиці, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/request/add-request-error.png">
-</p>
-
+![](./resources/request/add-request-error.png)
 ### Отримання медіа-контенту за запитом
 
-<p align="center">
-    <img src="./resources/request/get-media-by-request.png">
-</p>
-
+![](./resources/request/get-media-by-request.png)
 ### Видалення запиту за його id
 
-<p align="center">
-    <img src="./resources/request/delete-request.png">
-</p>
-
+![](./resources/request/delete-request.png)
 **Результат видалено відповідний запис з таблиці :**
 
-<p align="center">
-    <img src="./resources/request/delete-request-table.png">
-</p>
-
+![](./resources/request/delete-request-table.png)
 **Якщо видалити уже не існуючий запит, отримуємо помилку:**
 
-<p align="center">
-    <img src="./resources/request/delete-request-error.png">
-</p>
+![](./resources/request/delete-request-error.png)
