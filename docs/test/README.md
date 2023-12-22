@@ -131,8 +131,7 @@
 
 **Результат додано новий запис до таблиці:**
 
-
-    ./resources/request/add-request-table.png)
+![](./resources/request/add-request-table.png)
 
 **Якщо додаємо запит з уже існуючим user id  до таблиці, отримуємо помилку:**
 
