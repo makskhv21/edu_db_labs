@@ -4,7 +4,10 @@
 
 - User
 
-![User](./resources/table_user.png) 
+![User](https://radikal.host/i/cAXuc0) 
+
+
+
 <p align="center">
     <img src="./resources/table_user.png">
 </p>
