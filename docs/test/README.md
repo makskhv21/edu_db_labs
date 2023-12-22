@@ -6,49 +6,20 @@
 
 ![User](./resources/table_user.png) 
 
+![Role](./resources/table_role.png)
 
+![Media](./resources/table_media.png)
 
-<p align="center">
-    <img src="./resources/table_user.png">
-</p>
+![Origin](./resources/table_origin.png)
 
-- Role
-
-<p align="center">
-    <img src="./resources/table_role.png">
-</p>
-
-- Request
-
-<p align="center">
-    <img src="./resources/table_request.png">
-</p>
-
-- Origin
-
-<p align="center">
-    <img src="./resources/table_origin.png">
-</p>
-
-- Media
-
-<p align="center">
-    <img src="./resources/table_media.png">
-</p>
-
-- Grant
-
-<p align="center">
-    <img src="./resources/table_grant.png">
-</p>
+![Grant](./resources/table_grant.png)
 
 ## Робота з User
 
 ### Отримання всіх користувачів
 
-<p align="center">
-    <img src="./resources/user/get-all-users.png">
-</p>
+![](./resources/user/get-all-users.png)
+
 
 ### Отримати користувача за його id
 
