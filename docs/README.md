@@ -7,9 +7,9 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 ---
 
 
-**Виконав(-ла):** 
+**Виконав:** 
 
-*студент(-ка) 2-го курсу, групи (IM-21)*<span padding-right:5em></span> **[Максим Хвиць] [https://t.me/makskhv21]**
+*студент 2-го курсу, групи (IM-21)*<span padding-right:5em></span> **[Максим Хвиць] [https://t.me/makskhv21]**
 
 
 **Керівник**
